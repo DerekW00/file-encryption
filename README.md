@@ -14,16 +14,3 @@ Some key design requirements include:
 - Golang-specific requirements: The application must not use global variables (except for basic constants), and Go functions must return an error if malicious actions prevent them from functioning properly.
 
 The resources provided for the project include two servers (Keystore and Datastore), cryptographic algorithm implementations, and starter code with eight API functions to be implemented. The project provides a detailed threat model and design requirements to be met. The application's design must comply with these requirements to ensure a high degree of security and functionality.
-
-
-## Project Members
-
-Fill in this section with the student IDs of all the members in your project group.
-
-Partner 1 SID: 3034012622
-
-Partner 2 SID (if applicable):
-
-Also add a link to this repo below (should start with https://github.com/cs161-students/).
-
-Link to this Github repo:https://github.com/cs161-students/su23-project2-dw
